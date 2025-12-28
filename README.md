@@ -4,7 +4,7 @@ This project is a small 2D platformer created while learning the Godot Engine.
 
 It is based on the video tutorial by **Brackeys — *How to Make a Video Game (Godot Beginner Tutorial)***:
 
-* YouTube link: [https://www.youtube.com/watch?v=LOhfqjmasi0&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=4&t=876s](https://www.youtube.com/watch?v=LOhfqjmasi0&list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo&index=4&t=876s)
+* YouTube link: [https://youtu.be/LOhfqjmasi0?si=IoP5bfI5l3j2nG4O](https://youtu.be/LOhfqjmasi0?si=IoP5bfI5l3j2nG4O)
 
 The overall structure and gameplay closely follow the tutorial, however **the coin collection logic has been improved and refactored to use signals**, following a more idiomatic “Godot-way” approach.
 
